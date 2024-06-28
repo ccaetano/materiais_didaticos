@@ -3,6 +3,6 @@ Repositório de notebooks jupyter do seguinte trabalho de conclusão de curso:
 - Autor: Gessé de Castro Adam
 - Orientador: Clóvis Caetano
 - Curso: Física - Licenciatura
-- Instituição: Universidade Feceral da Fronteira Sul
+- Instituição: Universidade Federal da Fronteira Sul
 - Campus: Realeza/PR
 - Ano: 2024
